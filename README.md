@@ -15,6 +15,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+Another change by a collaborator
+
 - Bulleted
 - List
 
